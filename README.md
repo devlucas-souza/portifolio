@@ -1,6 +1,8 @@
 # 🌐 Portfólio Pessoal — Lucas Souza
 
-Este é o meu primeiro portfólio como Desenvolvedor Front-End, criado com HTML e CSS. O projeto tem como objetivo mostrar de forma simples quem eu sou, meus trabalhos e habilidades com foco em layout, organização e responsividade.
+Este é o meu primeiro portfólio como Desenvolvedor Front-End, criado com HTML e CSS. O objetivo é apresentar de forma clara quem sou, meus projetos e habilidades, com foco em layout, organização e responsividade.
+
+🔗 Acesse aqui: [portifolio-alpha-seven-81.vercel.app](https://portifolio-alpha-seven-81.vercel.app/)
 
 ![Badge Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)  
 ![Badge Responsivo](https://img.shields.io/badge/layout-mobile--first-success)  
@@ -9,17 +11,11 @@ Este é o meu primeiro portfólio como Desenvolvedor Front-End, criado com HTML 
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5  
-- CSS3 (com uso de variáveis)  
+- CSS3 (com variáveis)  
 - Flexbox  
-- Organização com classes reutilizáveis  
-- Responsividade (Mobile First)
+- Classes reutilizáveis e bem organizadas  
+- Responsividade com abordagem Mobile First
 
 ## 🎯 Objetivo
 
-Apresentar meu trabalho de forma direta, com um site leve, responsivo e com um visual limpo. Além disso, praticar conceitos fundamentais de estruturação e estilização de páginas web.
-
-## 🧩 Funcionalidades
-
-- Layout adaptado para desktop, tablet e celular
-- Seções como: Sobre, Projetos, Contato
-- Navegação simples e organizada
+Mostrar meu trabalho de forma leve e objetiva, com um site responsivo, bem estruturado e visualmente limpo. Além disso, reforçar os fundamentos de HTML e CSS enquanto coloco a
